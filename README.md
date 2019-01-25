@@ -1,4 +1,9 @@
 [![](https://discordapp.com/api/guilds/299075280503308288/embed.png)](https://discord.gg/3bWf3a2)
+
+<p align="center">
+  <img src="https://qoilo.com/sprajQ.gif">
+</p>
+
 # Translation Discord Bot
 ## Installation
 Before you download this bot, you must first install [nodejs version 9+](https://nodejs.org/en/download/current/)
