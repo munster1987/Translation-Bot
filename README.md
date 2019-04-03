@@ -104,3 +104,5 @@ Then, in your command prompt when the bot is not running, type `pm2 start app.js
 You can monitor the bot by running the command `pm2 monit` to display logs and resource usage
 
 ![pm2 monit](https://i.imgur.com/ZgPggka.png)
+
+### <a href="https://qoilo.com/hosting"><img src="https://qoilo.com/eWBpJt" width="26px">  Cheap Hosting Options For Your Bot</a>
